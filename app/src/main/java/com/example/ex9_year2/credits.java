@@ -42,7 +42,7 @@ public class credits extends AppCompatActivity {
         }
         else if(st.equals("mainActivity"))
         {
-            finish();
+            startActivity(backActivity);
         }
         return true;
     }
