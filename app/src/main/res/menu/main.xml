@@ -4,7 +4,11 @@
     <item
         android:id="@+id/credits"
         android:title="credit"
-        android:orderInCategory="100" />
+        android:orderInCategory="200" />
+    <item
+        android:id="@+id/mainActivity"
+        android:title="mainActivity"
+        android:orderInCategory="100"/>
 
 
 </menu>
